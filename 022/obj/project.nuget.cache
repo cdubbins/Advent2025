@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7TU3rvNiwE8=",
+  "dgSpecHash": "yhwTTGD9zzU=",
   "success": true,
-  "projectFilePath": "f:\\Projects\\Advent\\2018\\011\\011.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\E093037\\source\\repos\\Advent2025\\022\\011.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E093037\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\E093037\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\E093037\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\E093037\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
